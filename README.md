@@ -1,1 +1,1 @@
-# Miniproject
+Intellegent daily scheduler
