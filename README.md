@@ -10,3 +10,6 @@ laid on learning the leisure time of the user by indirectly monitoring day to da
 through the app. Free time as predicted by the model and the list of tasks to be performed
 form the input to the scheduling algorithm. The scheduling algorithm then allocates time for
 each task and the user is notified of the final schedule.
+
+For more Information check out 
+[Intelligent Daily Scheduler](https://ieeexplore.ieee.org/abstract/document/8554485) 
