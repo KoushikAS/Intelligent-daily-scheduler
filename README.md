@@ -1,6 +1,53 @@
-Intellegent daily scheduler
+# Intelligent Daily Scheduler
 
-It is quite evident that everyone has certain objectives to be completed and quite a few expectations to be met. Accomplishments of these targets require proper planning in addition to an individual's abilities. Smartphones have seen substantial growth over the past decade and there is perceptible evidence of people relying on them. Although there are solutions in the form of to-do list applications to mitigate the scheduling problem, they provide little insight regarding an individual's time organization. Most of the existing applications just provide the feature of recording the tasks and users themselves need to set the time at which these tasks have to be executed. In our application focus is laid on learning the leisure time of the user by indirectly monitoring day to day activities through the app. Free time as predicted by the model and the list of tasks to be performed together form the input to the scheduling algorithm. The scheduling algorithm then allocates time for each task ensuring load balancing by evenly distributing the tasks across the week and the user is notified of their personalized final schedule.
+Welcome to the Intelligent Daily Scheduler project, a smart solution for daily task management and scheduling. This application is designed to go beyond traditional to-do list applications by providing insights into an individual's time organization and optimizing their schedule based on their daily activities and leisure time.
 
-For more Information check out 
-[Intelligent Daily Scheduler](https://ieeexplore.ieee.org/abstract/document/8554485) 
+## Overview
+
+In today's fast-paced world, achieving daily objectives and meeting expectations requires not only individual abilities but also effective planning. With the growth of smartphone usage, people increasingly rely on technology for managing their schedules. The Intelligent Daily Scheduler is a step forward in this direction, using smart algorithms to enhance time management.
+
+## Key Features
+
+- **Activity Monitoring**: Learns about the user's leisure time by indirectly monitoring day-to-day activities.
+- **Intelligent Scheduling**: Uses a combination of the user’s available time and task list to create a balanced schedule.
+- **Load Balancing**: Ensures tasks are evenly distributed throughout the week to avoid overloading on any particular day.
+- **Personalized Notifications**: Users receive notifications about their tailored schedule, helping them stay on track.
+
+## Getting Started
+
+### Prerequisites
+
+- Compatible smartphone with required Android OS specifications.
+- Download and installation of the application.
+- Run the Backend Application
+
+### Installation
+
+The installation process will vary depending on the platform (iOS, Android, etc.). Please refer to the respective app store for detailed instructions.
+
+### Usage
+
+1. **Initial Setup**: Input your daily routine and tasks into the application.
+2. **Automatic Monitoring**: Allow the app to monitor your day-to-day activities.
+3. **Receive Schedule**: Get a personalized schedule based on the algorithm’s analysis.
+4. **Follow & Update**: Follow the schedule and update any changes in your routine or task list.
+
+## Additional Information
+
+For more in-depth information about how the Intelligent Daily Scheduler works, its algorithms, and user experiences, please visit the [Intelligent Daily Scheduler Info Page](https://ieeexplore.ieee.org/abstract/document/8554485).
+
+## Conclusion
+
+The Intelligent Daily Scheduler is designed for individuals seeking a more organized and efficient way to manage their daily tasks and time. By combining smart technology with personal habits and schedules, it offers a unique solution to balance your professional and personal life.
+
+## Contributions
+
+This project was developed as part of an academic Mini Project. Contributions were made solely by Koushik Annareddy Sreenath, and Akanksh B S adhering to the project guidelines and requirements set Ramaiah Instiute of Technology.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- Gratitude to J Geetha and the course staff for their invaluable guidance.
